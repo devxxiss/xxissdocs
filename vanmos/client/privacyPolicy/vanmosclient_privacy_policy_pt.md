@@ -59,7 +59,7 @@ são restritas apenas a seu dispositivo. Desta forma, este conteúdo é
 compartilhado apenas se você compartilhar alguma informação sua
 armazenada no VANMOS - CLIENTE ativamente.
 
-### Dados de localização:
+### Dados de localização
 
 Coletamos dados de localização precisos ou aproximados de motoristas
 e clientes parceiros para possibilitar viagens, habilitar recursos de rastreamento e segurança de viagens, prevenir
