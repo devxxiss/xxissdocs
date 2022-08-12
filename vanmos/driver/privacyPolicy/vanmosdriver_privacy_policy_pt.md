@@ -60,11 +60,11 @@ são restritas apenas a seu dispositivo. Desta forma, este conteúdo é
 compartilhado apenas se você compartilhar alguma informação sua
 armazenada no VANMOS - CONDUTOR ativamente.
 
-### Checagem de segurança e confirmação de identidade (motoristas parceiros):
+### Checagem de segurança e confirmação de identidade (motoristas parceiros)
 
 Pode incluir histórico, antecedentes criminais (quando permitido por lei), situação da carteira de habilitação, pseudônimos conhecidos, endereços anteriores e direito de trabalhar do motorista parceiro. A coleta desses dados pode ser feita por um prestador de serviços autorizado em nome da Vanmos - Condutor.
 
-### Dados de localização:
+### Dados de localização
 
 Coletamos dados de localização precisos ou aproximados de motoristas
 e clientes parceiros para possibilitar viagens, habilitar recursos de rastreamento e segurança de viagens, prevenir
