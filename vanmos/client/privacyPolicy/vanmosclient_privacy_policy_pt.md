@@ -59,13 +59,6 @@ são restritas apenas a seu dispositivo. Desta forma, este conteúdo é
 compartilhado apenas se você compartilhar alguma informação sua
 armazenada no VANMOS - CLIENTE ativamente.
 
-### Alterações desta Política de Privacidade
-
-A equipe da VANMOS - CLIENTE reserva-se ao direito de alterar este
-termo de privacidade sem aviso prévio. Deste modo, recomendamos que
-consulte a nossa Política de Privacidade com regularidade de forma a
-estar sempre atualizado.
-
 ### Dados de localização:
 
 Coletamos dados de localização precisos ou aproximados de motoristas
@@ -96,6 +89,13 @@ A Vanmos - Cliente permite que os usuários acessem e/ou controlem os dados que 
 
 -   Opções de comunicados de marketing
     
+### Alterações desta Política de Privacidade
+
+A equipe da VANMOS - CLIENTE reserva-se ao direito de alterar este
+termo de privacidade sem aviso prévio. Deste modo, recomendamos que
+consulte a nossa Política de Privacidade com regularidade de forma a
+estar sempre atualizado.
+
 ### Demais dúvidas
 
 Caso você possua alguma dúvida com relação a esta Política de
