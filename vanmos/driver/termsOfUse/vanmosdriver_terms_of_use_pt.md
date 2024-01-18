@@ -88,7 +88,16 @@ Você é responsável por obter o acesso a rede de dados necessário para usar o
 
 #### 4.1 PAGAMENTOS DECORRENTES DE USO DA PLATAFORMA VANMOS
 
-Será cobrado, mensalmente, um valor fixo devido à utilização dos serviços da plataforma Vanmos, sendo realizado através da forma de pagamento selecionado no momento do cadastro de um Cliente ou Condutor(a) Parceiro(a) Independente.
+Se você pagou por uma assinatura, terá acesso a todos os recursos do aplicativo. Os valores de cada um dos nossos produtos são diferentes, consulte a taxa real cobrada.
+
+Será cobrado, mensalmente ou anualmente, um valor fixo devido à utilização dos serviços da plataforma Vanmos correspondente ao plano selecionado, sendo realizado através da forma de pagamento selecionado no momento do cadastro de um Cliente ou Condutor(a) Parceiro(a) Independente.
+
+O pagamento será cobrado na sua loja de aplicativos na confirmação da compra. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do final do período atual.
+A conta será cobrada pela renovação dentro de 24 horas antes do final do período atual e identificará o custo da renovação.
+
+As assinaturas podem ser gerenciadas pelo usuário e a renovação automática pode ser desativada acessando as configurações da conta do usuário após a compra.
+Qualquer parte não utilizada de um período de teste gratuito, se oferecido, será perdida quando o usuário adquirir uma assinatura dessa publicação, quando aplicável.
+As assinaturas não podem ser transferidas entre sistemas diferentes, sendo de uso restrito somente na plataforma Android ou iOS em que foi adquirida.
 
 Se for verificado que o método de pagamento indicado na Conta expirou, está incorreto, vencido ou inválido ou não pode ser cobrado, Você concorda que a **VaNMos** poderá, na qualidade de agente de cobrança do(a) Condutor(a) Parceiro(a) Independente, usar um método secundário de cobrança na Conta, se houver. Caso não seja possível efetivar o pagamento ou exista alguma pendência financeira, Sua conta poderá, a exclusivo critério da **VaNMos**, ser suspensa ou desativada.
 
