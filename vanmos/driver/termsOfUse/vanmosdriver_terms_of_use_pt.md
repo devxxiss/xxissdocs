@@ -145,17 +145,21 @@ Você concorda em indenizar e manter a **VaNMos**, seus(as) diretores(as), conse
 
 Estes Termos serão regidos e interpretados exclusivamente de acordo com as leis do Brasil. Qualquer reclamação, conflito ou controvérsia que surgir destes Termos ou a eles relacionada, inclusive que diga respeito a sua validade, interpretação ou exequibilidade, será solucionada exclusivamente pelos tribunais do foro de Seu domicílio.
 
-### 8. OUTRAS DISPOSIÇÕES
+### 8. PROPRIEDADE INTELECTUAL
 
-#### 8.1. ALEGAÇÕES DE VIOLAÇÃO DE DIREITOS AUTORAIS
+Todos os materiais disponíveis no Serviço e todos os materiais e serviços fornecidos por ou através de nosso aplicativo, licenciadores ou outros parceiros comerciais de nossa empresa, incluindo, entre outros, software, design de efeitos, fontes ou outros materiais, publicados publicamente ou transmitidos de forma privada, bem como todos os trabalhos derivados dos mesmos (coletivamente, o “Material”), são de nossa propriedade e são protegidos por direitos autorais, marcas registradas, segredos comerciais e outras leis de propriedade intelectual. Você concorda em não vender, licenciar, alugar, modificar, distribuir, copiar, reproduzir, transmitir, exibir publicamente ou criar trabalho derivado de qualquer Material. 
+
+### 9. OUTRAS DISPOSIÇÕES
+
+#### 9.1. ALEGAÇÕES DE VIOLAÇÃO DE DIREITOS AUTORAIS
 
 Alegações de violação de direito autoral devem ser encaminhadas ao representante indicado pela **VaNMos**. Consulte a página de Internet da **VaNMos** em (URL) para outras informações.
 
-#### 8.2. AVISOS
+#### 9.2. AVISOS
 
 A **VaNMos** poderá enviar avisos por meio de notificações gerais nos Serviços, correio eletrônico para Seu endereço de e-mail em Sua Conta, ou por comunicação escrita enviada ao endereço indicado em Sua Conta. Você poderá notificar a **VaNMos** por meio do Aplicativo, comunicação pelo endereço eletrônico (URL) ou fazer comunicação escrita para o endereço da **VaNMos** na Cidade de (CIDADE), (ESTADO), (ENDEREÇO), (CEP).
 
-#### 8.3. DISPOSIÇÕES GERAIS
+#### 9.3. DISPOSIÇÕES GERAIS
 
 Você não poderá ceder nem transferir estes Termos,total ou parcialmente, sem prévia aprovação por escrito da **VaNMos**. Você concorda que a **VaNMos** ceda e transfira estes Termos, total ou parcialmente, inclusive:
 (i) para uma subsidiária ou Afiliada;
