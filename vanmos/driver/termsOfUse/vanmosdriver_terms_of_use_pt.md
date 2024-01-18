@@ -11,6 +11,8 @@ Estes Termos Gerais de Uso (“Termos”) regem Seu acesso e uso, como pessoa f�
 
 POR FAVOR, LEIA COM ATENÇÃO ESTES TERMOS ANTES DE ACESSAR OU USAR NOSSOS SERVIÇOS.
 
+Nós concedemos a você acesso aos nossos serviços. Você pode usar nosso aplicativo para cadastrar um perfil na plataforma, se comunicar com potenciais clientes, realizar serviços de transporte ou qualquer outra funcionalidade que possamos fornecer.
+
 Ao acessar e usar os Serviços Você concorda com os presentes Termos, que estabelecem o relacionamento contratual entre Você, na qualidade de usuário(a), e a Vanmos. Se Você não concorda com estes Termos, Você não deve acessar nem usar os Serviços. Mediante referido acesso e uso, estes Termos imediatamente encerram, substituem e superam todos os acordos, Termos e acertos anteriores entre Você e a Vanmos. A Vanmos poderá imediatamente encerrar estes Termos ou quaisquer Serviços em relação a Você ou, de modo geral, deixar de oferecer ou negar acesso aos Serviços ou a qualquer parte deles, a qualquer momento e por qualquer motivo.
 
 Termos suplementares poderão se aplicar ao Seu uso dos Serviços, tais como políticas ou termos de uso relacionados a determinados recursos e funcionalidades, que podem sofrer mudanças a qualquer momento e esses termos suplementares serão divulgados em relação aos respectivos Serviços (“Termos Suplementares”). Termos Suplementares são complementares e considerados parte integrante destes Termos para os efeitos dos respectivos Serviços. Os Termos Suplementares prevalecerão sobre estes Termos em caso de conflito com relação aos referidos Serviços.
@@ -149,17 +151,43 @@ Estes Termos serão regidos e interpretados exclusivamente de acordo com as leis
 
 Todos os materiais disponíveis no Serviço e todos os materiais e serviços fornecidos por ou através de nosso aplicativo, licenciadores ou outros parceiros comerciais de nossa empresa, incluindo, entre outros, software, design de efeitos, fontes ou outros materiais, publicados publicamente ou transmitidos de forma privada, bem como todos os trabalhos derivados dos mesmos (coletivamente, o “Material”), são de nossa propriedade e são protegidos por direitos autorais, marcas registradas, segredos comerciais e outras leis de propriedade intelectual. Você concorda em não vender, licenciar, alugar, modificar, distribuir, copiar, reproduzir, transmitir, exibir publicamente ou criar trabalho derivado de qualquer Material. 
 
-### 9. OUTRAS DISPOSIÇÕES
+### 9. SUAS RESPONSABILIDADES
 
-#### 9.1. ALEGAÇÕES DE VIOLAÇÃO DE DIREITOS AUTORAIS
+Para utilizar nossos serviços você deve concordar em cumprir este contrato e a licença de outras partes. Não seremos responsáveis ​​por qualquer uso do seu conteúdo por nós de acordo com estes Termos.
+
+### 10. TERMOS DE RESCISÃO
+
+O acordo continuará a ser aplicado até ser rescindido por você ou pela **VaNMos** da seguinte forma: você pode rescindir seu contrato legal com a **VaNMos** a qualquer momento e por qualquer motivo, interrompendo o uso de nossos aplicativos. 
+Poderemos deixar de fornecer a você todo ou parte do serviço a qualquer momento, por qualquer motivo, incluindo, entre outros, se acreditarmos razoavelmente: (i) que você violou estes Termos; (ii) você cria riscos ou possível exposição legal para nós. 
+Em todos esses casos, os Termos serão rescindidos, incluindo, sem limitação, sua licença para usar nossos aplicativos.
+
+### 11. LIMITAÇÃO DE RESPONSABILIDADE
+
+Você entende e concorda que não seremos responsáveis ​​perante você ou qualquer terceiro por qualquer perda de lucros, uso ou por quaisquer danos incidentais, indiretos, especiais, consequenciais ou exemplares, independentemente de como surjam, que resultem de
+- o uso, divulgação ou exibição que você criou ao usar nossos serviços;
+- seu uso ou incapacidade de usar a plataforma **VaNMos**;
+- declarações ou conduta de terceiros na plataforma **VaNMos**;
+- ou qualquer outro assunto relacionado à plataforma **VaNMos**.
+
+### 12. ISENÇÕES DE RESPONSABILIDADE E GARANTIAS
+
+Os serviços da **VaNMos** são fornecidos "NO ESTADO EM QUE SE ENCONTRAM". Na extensão máxima permitida por lei, renunciamos a todas as garantias, expressas ou implícitas, incluindo as garantias implícitas de não violação, comercialização e adequação a uma finalidade específica. Não assumimos compromissos sobre o conteúdo dos serviços. Também nos isentamos de qualquer garantia de que (A) os serviços ou software atenderão aos seus requisitos ou estarão constantemente disponíveis, ininterruptos, oportunos, seguros ou livres de erros; (B) os resultados obtidos com o uso dos serviços ou software serão eficazes, precisos ou confiáveis; (C) a qualidade dos serviços ou software atenderá às suas expectativas; ou (D) quaisquer erros ou defeitos nos serviços ou software serão corrigidos.
+
+Isentamo-nos especificamente de qualquer responsabilidade por quaisquer ações resultantes do uso de quaisquer serviços ou software. Você pode usar e acessar os serviços ou software por sua própria conta e risco, e você é o único responsável por qualquer dano ao seu dispositivo ou perda de dados que resulte do uso e acesso a qualquer serviço ou software.
+
+Não somos responsáveis ​​pelo conteúdo que você compartilhou publicamente em outros sites ou mídias sociais.
+
+### 13. OUTRAS DISPOSIÇÕES
+
+#### 13.1. ALEGAÇÕES DE VIOLAÇÃO DE DIREITOS AUTORAIS
 
 Alegações de violação de direito autoral devem ser encaminhadas ao representante indicado pela **VaNMos**. Consulte a página de Internet da **VaNMos** em (URL) para outras informações.
 
-#### 9.2. AVISOS
+#### 13.2. AVISOS
 
 A **VaNMos** poderá enviar avisos por meio de notificações gerais nos Serviços, correio eletrônico para Seu endereço de e-mail em Sua Conta, ou por comunicação escrita enviada ao endereço indicado em Sua Conta. Você poderá notificar a **VaNMos** por meio do Aplicativo, comunicação pelo endereço eletrônico (URL) ou fazer comunicação escrita para o endereço da **VaNMos** na Cidade de (CIDADE), (ESTADO), (ENDEREÇO), (CEP).
 
-#### 9.3. DISPOSIÇÕES GERAIS
+#### 13.3. DISPOSIÇÕES GERAIS
 
 Você não poderá ceder nem transferir estes Termos,total ou parcialmente, sem prévia aprovação por escrito da **VaNMos**. Você concorda que a **VaNMos** ceda e transfira estes Termos, total ou parcialmente, inclusive:
 (i) para uma subsidiária ou Afiliada;
@@ -168,7 +196,9 @@ Você não poderá ceder nem transferir estes Termos,total ou parcialmente, sem 
 
 Caso qualquer disposição destes Termos seja tida como ilegal, inválida ou inexequível total ou parcialmente, por qualquer legislação ou determinação judicial, essa disposição ou parte dela será, naquela medida, considerada como não existente para os efeitos destes Termos, mas a legalidade, validade e exequibilidade das demais disposições contidas nestes Termos não serão afetadas. Nesse caso, as partes substituirão a disposição ilegal, inválida ou inexequível, ou parte dela, por outra que seja legal, válida e exequível e que, na máxima medida possível, tenha efeito similar à disposição tida como ilegal, inválida ou inexequível para fins de conteúdo e finalidade dos presentes Termos. Estes Termos constituem a totalidade do acordo e entendimento das partes sobre este assunto e substituem e prevalecem sobre todos os entendimentos e compromissos anteriores sobre este assunto. Nestes Termos, as palavras “inclusive” e “inclui” significam “incluindo, sem limitação”.
 
+Se qualquer disposição deste acordo for inválida devido a conflito com as leis aplicáveis, estes termos serão interpretados o mais próximo possível do propósito original deste acordo, e outras disposições deste acordo ainda terão pleno efeito.
+Se você tiver uma disputa conosco, ambas as partes devem fazer o possível para resolvê-la por meio de uma negociação amigável. Se a negociação falhar, você concorda em submeter a disputa ao tribunal com jurisdição no domicílio do réu para buscar uma solução.
+
 Finalmente, você reconhece e confere força probatória plena:
 (i) às telas sistêmicas do aplicativo da Vanmos, inclusive as capturas de tela coletadas em dispositivos móveis; e
 (ii) aos relatórios e dados extraídos da plataforma interna da **VaNMos**, consentindo que tais documentos constituem meio de prova válido para todos os fins, nos termos do artigo 190 do Código de Processo Civil e rtigo 18, I, da Lei Federal 13.874/2019.
-
