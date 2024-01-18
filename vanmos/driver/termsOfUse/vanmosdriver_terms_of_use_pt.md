@@ -7,7 +7,7 @@ VANMOS - CONDUTOR - TERMOS DE USO | Xxiss
 
 ### 1. RELACIONAMENTO CONTRATUAL
 
-Estes Termos Gerais de Uso (“Termos”) regem Seu acesso e uso, como pessoa física (“Você”), dentro do Brasil, dos aplicativos, sites de Internet, conteúdos e serviços (os “Serviços”) fornecidos pela **VaNMos**., sociedade de responsabilidade limitada, estabelecida no Brasil, com sede na Cidade de (CIDADE), (ESTADO), (LOGRADOURO) (CEP), inscrita no CNPJ sob o nº (CNPJ).
+Estes Termos Gerais de Uso (“Termos”) regem Seu acesso e uso, como pessoa física (“Você”), dentro do Brasil, dos aplicativos, sites de Internet, conteúdos e serviços (os “Serviços”) fornecidos pela **VaNMos**.
 
 POR FAVOR, LEIA COM ATENÇÃO ESTES TERMOS ANTES DE ACESSAR OU USAR NOSSOS SERVIÇOS.
 
@@ -127,11 +127,7 @@ OS SERVIÇOS DA **VaNMos** PODERÃO SER USADOS POR VOCÊ PARA SOLICITAR E PROGRA
 
 OS LIMITES DE RESPONSABILIDADE CONTIDOS NESTA CLÁUSULA 5 NÃO POSSUEM O OBJETIVO DE LIMITAR RESPONSABILIDADES OU ALTERAR DIREITOS DE CONSUMIDOR QUE, DE ACORDO COM A LEI APLICÁVEL, NÃO PODEM SER LIMITADOS OU ALTERADOS.
 
-#### 5.3. SEGURO DE ACIDENTES PESSOAIS
-
--
-
-#### 5.4. INDENIZAÇÃO
+#### 5.3. INDENIZAÇÃO
 
 Você concorda em indenizar e manter a **VaNMos**, seus(as) diretores(as), conselheiros(as), empregados(as) e agentes isentos(as) de responsabilidade por todas e quaisquer reclamações, cobranças, prejuízos, responsabilidades e despesas (inclusive honorários advocatícios) decorrentes ou relacionados:
 (i) ao uso, por Você, dos Serviços e/ou de serviços obtidos por meio do uso dos Serviços;
@@ -139,29 +135,25 @@ Você concorda em indenizar e manter a **VaNMos**, seus(as) diretores(as), conse
 (iii) o uso, pela **VaNMos**, do Conteúdo de Usuário(a); ou
 (iv) violação dos direitos de terceiros(as), inclusive Condutores(as) Parceiros(as) Independentes.
 
-### 6. SOLUÇÃO DE CONTROVÉRSIAS
-
--
-
-### 7. LEGISLAÇÃO APLICÁVEL; JURISDIÇÃO
+### 6. LEGISLAÇÃO APLICÁVEL; JURISDIÇÃO
 
 Estes Termos serão regidos e interpretados exclusivamente de acordo com as leis do Brasil. Qualquer reclamação, conflito ou controvérsia que surgir destes Termos ou a eles relacionada, inclusive que diga respeito a sua validade, interpretação ou exequibilidade, será solucionada exclusivamente pelos tribunais do foro de Seu domicílio.
 
-### 8. PROPRIEDADE INTELECTUAL
+### 7. PROPRIEDADE INTELECTUAL
 
 Todos os materiais disponíveis no Serviço e todos os materiais e serviços fornecidos por ou através de nosso aplicativo, licenciadores ou outros parceiros comerciais de nossa empresa, incluindo, entre outros, software, design de efeitos, fontes ou outros materiais, publicados publicamente ou transmitidos de forma privada, bem como todos os trabalhos derivados dos mesmos (coletivamente, o “Material”), são de nossa propriedade e são protegidos por direitos autorais, marcas registradas, segredos comerciais e outras leis de propriedade intelectual. Você concorda em não vender, licenciar, alugar, modificar, distribuir, copiar, reproduzir, transmitir, exibir publicamente ou criar trabalho derivado de qualquer Material. 
 
-### 9. SUAS RESPONSABILIDADES
+### 8. SUAS RESPONSABILIDADES
 
 Para utilizar nossos serviços você deve concordar em cumprir este contrato e a licença de outras partes. Não seremos responsáveis ​​por qualquer uso do seu conteúdo por nós de acordo com estes Termos.
 
-### 10. TERMOS DE RESCISÃO
+### 9. TERMOS DE RESCISÃO
 
 O acordo continuará a ser aplicado até ser rescindido por você ou pela **VaNMos** da seguinte forma: você pode rescindir seu contrato legal com a **VaNMos** a qualquer momento e por qualquer motivo, interrompendo o uso de nossos aplicativos. 
 Poderemos deixar de fornecer a você todo ou parte do serviço a qualquer momento, por qualquer motivo, incluindo, entre outros, se acreditarmos razoavelmente: (i) que você violou estes Termos; (ii) você cria riscos ou possível exposição legal para nós. 
 Em todos esses casos, os Termos serão rescindidos, incluindo, sem limitação, sua licença para usar nossos aplicativos.
 
-### 11. LIMITAÇÃO DE RESPONSABILIDADE
+### 10. LIMITAÇÃO DE RESPONSABILIDADE
 
 Você entende e concorda que não seremos responsáveis ​​perante você ou qualquer terceiro por qualquer perda de lucros, uso ou por quaisquer danos incidentais, indiretos, especiais, consequenciais ou exemplares, independentemente de como surjam, que resultem de
 - o uso, divulgação ou exibição que você criou ao usar nossos serviços;
@@ -169,7 +161,7 @@ Você entende e concorda que não seremos responsáveis ​​perante você ou q
 - declarações ou conduta de terceiros na plataforma **VaNMos**;
 - ou qualquer outro assunto relacionado à plataforma **VaNMos**.
 
-### 12. ISENÇÕES DE RESPONSABILIDADE E GARANTIAS
+### 11. ISENÇÕES DE RESPONSABILIDADE E GARANTIAS
 
 Os serviços da **VaNMos** são fornecidos "NO ESTADO EM QUE SE ENCONTRAM". Na extensão máxima permitida por lei, renunciamos a todas as garantias, expressas ou implícitas, incluindo as garantias implícitas de não violação, comercialização e adequação a uma finalidade específica. Não assumimos compromissos sobre o conteúdo dos serviços. Também nos isentamos de qualquer garantia de que (A) os serviços ou software atenderão aos seus requisitos ou estarão constantemente disponíveis, ininterruptos, oportunos, seguros ou livres de erros; (B) os resultados obtidos com o uso dos serviços ou software serão eficazes, precisos ou confiáveis; (C) a qualidade dos serviços ou software atenderá às suas expectativas; ou (D) quaisquer erros ou defeitos nos serviços ou software serão corrigidos.
 
@@ -177,17 +169,17 @@ Isentamo-nos especificamente de qualquer responsabilidade por quaisquer ações 
 
 Não somos responsáveis ​​pelo conteúdo que você compartilhou publicamente em outros sites ou mídias sociais.
 
-### 13. OUTRAS DISPOSIÇÕES
+### 12. OUTRAS DISPOSIÇÕES
 
-#### 13.1. ALEGAÇÕES DE VIOLAÇÃO DE DIREITOS AUTORAIS
+#### 12.1. ALEGAÇÕES DE VIOLAÇÃO DE DIREITOS AUTORAIS
 
 Alegações de violação de direito autoral devem ser encaminhadas ao representante indicado pela **VaNMos**. Consulte a página de Internet da **VaNMos** em (URL) para outras informações.
 
-#### 13.2. AVISOS
+#### 12.2. AVISOS
 
-A **VaNMos** poderá enviar avisos por meio de notificações gerais nos Serviços, correio eletrônico para Seu endereço de e-mail em Sua Conta, ou por comunicação escrita enviada ao endereço indicado em Sua Conta. Você poderá notificar a **VaNMos** por meio do Aplicativo, comunicação pelo endereço eletrônico (URL) ou fazer comunicação escrita para o endereço da **VaNMos** na Cidade de (CIDADE), (ESTADO), (ENDEREÇO), (CEP).
+A **VaNMos** poderá enviar avisos por meio de notificações gerais nos Serviços, correio eletrônico para Seu endereço de e-mail em Sua Conta, ou por comunicação escrita enviada ao endereço indicado em Sua Conta.
 
-#### 13.3. DISPOSIÇÕES GERAIS
+#### 12.3. DISPOSIÇÕES GERAIS
 
 Você não poderá ceder nem transferir estes Termos,total ou parcialmente, sem prévia aprovação por escrito da **VaNMos**. Você concorda que a **VaNMos** ceda e transfira estes Termos, total ou parcialmente, inclusive:
 (i) para uma subsidiária ou Afiliada;
